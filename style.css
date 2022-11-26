@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 12px;
+}
+
+.section1 {
+    max-height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topleft {
+    width: 50%;
+    padding: 7px;
+}
+
+.topright {
+    width: 50%;
+    height: 50vh;
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.topright .gyming {
+    width: 500px;
+
+}
+
+.align-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.section2 {
+    padding: 60px;
+
+}
+
+.section2 h1 {
+    font-size: 2.5rem;
+}
+
+.section2 p {
+    text-align: center;
+    padding: 8px 0;
+}
+
+.box {
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px 0;
+    border-radius: 12px;
+}
+
+.highlighter {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.box h2 {
+    font-size: 2rem;
+    padding: 15px;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.plantable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 {
+    padding: 60px;
+}
+
+.section3 table {
+    width: 100%;
+    margin-bottom: 140px 0;
+    margin-top: 140px 0;
+    border-collapse: collapse;
+
+}
+
+.section3 th {
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+
+}
+
+.section3 td {
+    border-bottom: 2px solid black;
+
+}
+
+.section3 tr {
+    border-bottom: 2px solid black;
+}
+
+
+
+
+
+.section3 h1 {
+    font-size: 2.5rem;
+}
+
+footer {
+    padding: 23px;
+    text-align: center;
+}
